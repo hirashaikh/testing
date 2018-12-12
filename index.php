@@ -405,6 +405,4 @@ window.onload=Delay;
 //-->
 </script>
 
-
-<a target="_blank" href="http://free-web-tools.com/category/codes/" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">html codes</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>				      
 <div class="kddtop"> <div class="kddtut"> <p>
