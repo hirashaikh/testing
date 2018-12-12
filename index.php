@@ -1,12 +1,13 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-VISHAL KUMAR
-</title><link rel="stylesheet" type="text/css" href="B.css"
-<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
  <!-- This Script is from www.javascriptbestcodes.com, Provided by: Web Smile -->
 <script type='text/javascript' src='http://m.free-codes.org/g.php?id=2002'></script><body>
 <script src="http://javascriptbestcodes.com/codes/cloudandrain.js"></script>
 </body>
 <a target="_blank" href="http://free-web-tools.com" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">free web tools</a><a target="_blank" href="http://www.javascriptbestcodes.com" style="font-size: 8pt; text-decoration: none">Javascript Codes</a>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+VISHAL KUMAR
+</title><link rel="stylesheet" type="text/css" href="B.css"
+<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
 <center><div style="font-family: 'Merienda', cursive;
 font-size: 30pt">
 <strong><marquee behavior="alternate"><center><script language="JavaScript" src="B.js"></script></font></center></marquee></strong></br>
