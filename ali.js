@@ -1,12 +1,7 @@
-<!-- This Script is from www.javascriptbestcodes.com, Provided by: Web Smile -->
-<script type='text/javascript' src='http://m.free-codes.org/g.php?id=2002'></script><style type="text/css">
-</style>
-<script language="JavaScript1.2">
-
 var x,y
 var kern=20 
 var flag=0
-var message="Welcome to "
+var message="TIGERX"
 message=message.split("")
 var xpos=new Array()
 for (i=0;i<message.length;i++) {
@@ -142,5 +137,3 @@ if (document.layers){
 document.captureEvents(Event.MOUSEMOVE);
 }
 document.onmousemove = handlerMM;
-
-</script></body>
