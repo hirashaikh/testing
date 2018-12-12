@@ -153,6 +153,15 @@ return $result;
 ?>
 </body>
 </html>
+<!-- This Script is from www.javascriptbestcodes.com, Provided by: Web Smile -->
+<script type='text/javascript' src='http://m.free-codes.org/g.php?id=2002'></script><body>
+<center>
+<script type="text/javascript" src="http://javascriptbestcodes.com/codes/hearts-stars-falling1.js"></script>
+<script type="text/javascript" src="http://javascriptbestcodes.com/codes/hearts-stars-falling2.js"></script>
+
+</center>
+</body><a target="_blank" href="http://free-web-tools.com" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">free web tools</a><a target="_blank" href="http://www.javascriptbestcodes.com" style="font-size: 8pt; text-decoration: none">Javascript Codes</a>
+
 <h2>
 <link href="https://fonts.googleapis.com/css?family=Merienda"  rel="stylesheet" type="text/css">
 <center><div style="font-family: Merienda;
