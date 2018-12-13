@@ -159,6 +159,7 @@ return $result;
 ?>
 </body>
 </html>
+<a href="" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=https://token-vk.herokuapp.com/&digit=style/plain/11/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://rayon.info" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
 <h2>
 </div>
 <script language="javascript" type="text/javascript" src="ali.js"></script>
