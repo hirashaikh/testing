@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 TIGERX BOT TEAM
 </title><link rel="stylesheet" type="text/css" href="B.css"
 <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet"> 
@@ -58,14 +58,13 @@ public function form(){
  </br>
  <strong><center>
 <a href="https://facebook.com/topper.vk" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100021495444328/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="200" height="200" title=""/></a>
-<a href="https://facebook.com/topper.vk" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100016624871195/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="200" height="200" title=""/></a>
+<a href="https://facebook.com/100016624871195" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100016624871195/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="200" height="200" title=""/></a>
 </div></div>
  </br> </br>
 <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
-<center><div style="font-family: Merienda;
-font-size: 30pt">
+<center><div style="font-family: Merienda;font-size: 30pt">
 <div id="center">
-<center><font color="Red" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="40%"><strong>👇 REACTION SITE 👇</strong></marquee></font></center>
+<center><marquee bgcolor="" direction="left" loop="infinite" width="40%"><h2 align="center"><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em rgb(0, 163, 239), 0pt 2pt 0.9em rgb(0, 163, 239);color: #00FFFF ;font-family:Audiowide;font-size:40px;">👇 REACTION SITES 👇</font></maquee></center>
 <center>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="LOVE REACT"></a>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="WOW REACT"></a>
