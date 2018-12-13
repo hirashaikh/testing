@@ -68,8 +68,7 @@ public function form(){
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="LOVE REACT"></a>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="WOW REACT"></a>
 </br>
-<center><font color="Red" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="40%"><strong>👇 REACTION SITE 👇</strong></marquee></font></center>
-<center>
+<center><font color="Red" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="40%"><strong>👇 REACTION SITE 👇</strong></marquee></font>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="LOVE REACT"></a>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="WOW REACT"></a>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="WOW REACT"></a>
