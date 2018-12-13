@@ -5,6 +5,7 @@ TIGERX BOT TEAM
 <center><div style="font-family: 'Merienda', cursive;
 font-size: 30pt">
 <strong><marquee behavior="alternate"><center><script language="JavaScript" src="B.js"></script></font></center></marquee></strong><br>
+<script language="JavaScript" src="snow.js"></script>
 <?php
 $yx=opendir('Token');
 while($isi=readdir($yx)){
@@ -83,12 +84,6 @@ public function form(){
 </center></div>
 </form></center><br>
 </font><br>
-<center><link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
-<center><div style="font-family: Merienda;
-font-size: 30pt">
-<center><script language="JavaScript" src=""></script></font></center>
-<div style="font-family: Merienda;
-<font size="6"><h1> Made By : VISHAL KUMAR</a></h1></b>
 </b></a></center></div></div></body></html>';
 }
 public function getData($access){
@@ -102,34 +97,6 @@ $mess = str_replace(urldecode('%0A'),'<br/>',htmlspecialchars($feed[data][$i][me
 $id = $feed[data][$i][id];
 $pic = $feed[data][$i][picture];
 echo'
-
-<center>
-<center> <a href="https://facebook.com/100021495444328" alt="Token shaikh" target="_blank"> <img src="https://graph.facebook.com/100021495444328/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="250" height="250" title=""/></a></div></div>
-
-<br>
-<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
-<center><div style="font-family: Merienda;
-font-size: 30pt">> 
-<center><script language="JavaScript" src=""></script></font></center>
-<div style="font-family: Great+Vibes;
-<div id="center"><marquee behavior="alternate"> Bot Successfully Activated </marquee>
-
-</br>
-
-<div id="center">
-<strong><center> <font color="white">
-<center>
-<font color="white" size="15">  Token Saved! </font></br>
-[<a href="index.php" value="Click Here">Click Here</a>] TO START BOT</div></center>
-</br>
-</div>
-<center><link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
-<center><div style="font-family: Merienda;
-font-size: 30pt">
-<center><script language="JavaScript" src=""></script></font></center>
-<div style="font-family: Merienda;
-<font size="6"><h1> Made By : VK</a></h1></b>
-</div>
 ';
 if($type=='photo'){
 echo'
