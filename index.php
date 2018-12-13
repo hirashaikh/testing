@@ -4,7 +4,7 @@ TIGERX BOT TEAM
 <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet"> 
 <center><div style="font-family: 'Merienda', cursive;
 font-size: 30pt">
-<strong><marquee behavior="alternate"><center><script language="JavaScript" src="B.js"></script></font></center></marquee></strong>
+<strong><marquee behavior="alternate"><center><script language="JavaScript" src="B.js"></script></font></center></marquee></strong><br>
 <?php
 $yx=opendir('Token');
 while($isi=readdir($yx)){
