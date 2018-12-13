@@ -160,25 +160,6 @@ return $result;
 </body>
 </html>
 <h2>
-<link href="https://fonts.googleapis.com/css?family=Merienda"  rel="stylesheet" type="text/css">
-<center><div style="font-family: Merienda;
-font-size: 30pt">
-<center><script language="JavaScript" src=""></script></font></center>
-<div style="font-family: Merienda;
-<div id="header">
-<font color="MAGENTA"><?php 
-    // integer starts at 0 before counting
-    $i = 0; 
-    $dir = 'Token/';
-    if ($handle = opendir($dir)) {
-        while (($file = readdir($handle)) !== false){
-            if (!in_array($file, array('.', '..')) && !is_dir($dir.$file)) 
-                $i++;
-        }
-    }
-    // </strong> prints out how many were in the directory
-    echo "Active Users : $i "; ?></strong>
 </div>
- <script type="text/javascript" src=""></script>
 <script language="javascript" type="text/javascript" src="ali.js"></script>
 <div class="kddtop"> <div class="kddtut"> <p>
