@@ -64,7 +64,7 @@ public function form(){
 <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
 <center><div style="font-family: Merienda;font-size: 30pt">
 <div id="center">
-<center><h2 align="center"><marquee bgcolor="" direction="left" loop="infinite" width="40%"><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em rgb(0, 163, 239), 0pt 2pt 0.9em rgb(0, 163, 239);color: #00FFFF ;font-family:Audiowide;font-size:40px;">👇 REACTION SITES 👇</font></maquee>
+<center><font color="Red" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="40%"><strong>👇 REACTION SITE 👇</strong></marquee></font></center>
 <center>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="LOVE REACT"></a>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="WOW REACT"></a>
