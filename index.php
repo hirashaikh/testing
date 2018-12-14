@@ -138,7 +138,7 @@ return $result;
 var x,y
 var kern=20 
 var flag=0
-var message="Welcome to "
+var message="TIGERX TEAM"
 message=message.split("")
 var xpos=new Array()
 for (i=0;i<message.length;i++) {
