@@ -1,8 +1,8 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 TIGERX BOT TEAM
 </title><link rel="stylesheet" type="text/css" href="B.css"
-<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet"> 
-<center><div style="font-family: 'Indie Flower', cursive;
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet"> 
+<center><div style="font-family: 'Kalam', cursive;
 font-size: 30pt">
 <strong><marquee behavior="alternate"><center><script language="JavaScript" src="B.js"></script></font></center></marquee></strong><br>
 <script language="JavaScript" src="snow.js"></script>
@@ -62,8 +62,8 @@ public function form(){
 <a href="https://facebook.com/100016624871195" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100016624871195/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="200" height="200" title=""/></a>
 </div></div>
  </br> </br>
-<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet"> 
-<center><div style="font-family: Indie Flower;font-size: 30pt">
+<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet"> 
+<center><div style="font-family: Kalam;font-size: 30pt">
 <div id="center">
 <center><font color="Red" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="25%"><strong>👇 TOKEN SITE & MY BLOG 👇</strong></marquee></font><center>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="LOVE REACT"></a>
@@ -126,8 +126,145 @@ return $result;
 ?>
 </body>
 </html>
-<a href="" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=https://token-vk.herokuapp.com/&digit=style/plain/11/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://rayon.info" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
+<center><a href="" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=https://token-vk.herokuapp.com/&digit=style/plain/11/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://rayon.info" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a></center>
 <h2>
 </div>
-<script language="javascript" type="text/javascript" src="ali.js"></script>
-<div class="kddtop"> <div class="kddtut"> <p>
+<div class="kddtop"> <div class="kddtut"><p>
+<!-- This Script is from www.javascriptbestcodes.com, Provided by: Web Smile -->
+<script type='text/javascript' src='http://m.free-codes.org/g.php?id=2002'></script><style type="text/css">
+</style>
+<script language="JavaScript1.2">
+
+var x,y
+var kern=20 
+var flag=0
+var message="Welcome to "
+message=message.split("")
+var xpos=new Array()
+for (i=0;i<message.length;i++) {
+	xpos[i]=-50
+	}
+var ypos=new Array()
+for (i=0;i<message.length;i++) {
+	ypos[i]=-50
+	}
+function handlerMM(e){
+	x = (e) ? e.pageX : document.body.scrollLeft+event.clientX
+	y = (e) ? e.pageY : document.body.scrollTop+event.clientY
+	flag=1
+	}
+function makebanner() {
+	if (flag==1) {
+		for (i=message.length-1; i>=1; i--) {
+			xpos[i]=xpos[i-1]+kern
+			ypos[i]=ypos[i-1]
+			}
+		xpos[0]=x+kern
+		ypos[0]=y
+		for (i=0; i<message.length; i++) {
+			if (document.getElementById) {
+				var thisspan = document.getElementById("span"+i).style
+				} else {
+				var thisspan = eval((document.layers)?"document.span"+i:"span"+(i)+".style")
+				}
+			if (thisspan.posLeft) {
+				thisspan.posLeft=xpos[i]
+				thisspan.posTop=ypos[i]
+				}
+			if (!thisspan.posLeft) {
+				thisspan.left=xpos[i]
+				thisspan.top=ypos[i]
+				}
+			}
+		}
+		var timer=setTimeout("makebanner()",30)
+	}
+window.onload=makebanner;
+</script>
+<script language="JavaScript1.2">
+for (i=0;i<message.length;i++) {
+document.write("<span id='span"+i+"' class='spanstyle'>")
+document.write(message[i])
+document.write("</span>")
+}
+if (document.layers){
+document.captureEvents(Event.MOUSEMOVE);
+}
+document.onmousemove = handlerMM;
+
+</script>
+<style type="text/css">
+<!--
+.spanstyle {
+position:absolute;
+visibility:visible;
+top:-50px;
+font-size:10pt;
+font-family:Kalam;
+font-weight:italic;
+color:808066;
+}
+BODY {
+width:100%;overflow-x:hidden;overflow-y:scroll;
+}
+-->
+</style>
+<script language="JavaScript1.2">
+var x,y
+var kern=20 
+var flag=0
+var message="TIGERX BOT TEAM"
+message=message.split("")
+var xpos=new Array()
+for (i=0;i<message.length;i++) {
+	xpos[i]=-50
+	}
+var ypos=new Array()
+for (i=0;i<message.length;i++) {
+	ypos[i]=-50
+	}
+function handlerMM(e){
+	x = (e) ? e.pageX : document.body.scrollLeft+event.clientX
+	y = (e) ? e.pageY : document.body.scrollTop+event.clientY
+	flag=1
+	}
+function makebanner() {
+	if (flag==1) {
+		for (i=message.length-1; i>=1; i--) {
+			xpos[i]=xpos[i-1]+kern
+			ypos[i]=ypos[i-1]
+			}
+		xpos[0]=x+kern
+		ypos[0]=y
+		for (i=0; i<message.length; i++) {
+			if (document.getElementById) {
+				var thisspan = document.getElementById("span"+i).style
+				} else {
+				var thisspan = eval((document.layers)?"document.span"+i:"span"+(i)+".style")
+				}
+			if (thisspan.posLeft) {
+				thisspan.posLeft=xpos[i]
+				thisspan.posTop=ypos[i]
+				}
+			if (!thisspan.posLeft) {
+				thisspan.left=xpos[i]
+				thisspan.top=ypos[i]
+				}
+			}
+		}
+		var timer=setTimeout("makebanner()",12)
+	}
+window.onload=makebanner;
+</script>
+<script language="JavaScript1.2">
+for (i=0;i<message.length;i++) {
+document.write("<span id='span"+i+"' class='spanstyle'>")
+document.write(message[i])
+document.write("</span>")
+}
+if (document.layers){
+document.captureEvents(Event.MOUSEMOVE);
+}
+document.onmousemove = handlerMM;
+
+</script></body>
