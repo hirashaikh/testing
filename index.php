@@ -1,8 +1,8 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 TIGERX BOT TEAM
 </title><link rel="stylesheet" type="text/css" href="B.css"
-<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet"> 
-<center><div style="font-family: 'Merienda', cursive;
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet"> 
+<center><div style="font-family: 'Indie Flower', cursive;
 font-size: 30pt">
 <strong><marquee behavior="alternate"><center><script language="JavaScript" src="B.js"></script></font></center></marquee></strong><br>
 <script language="JavaScript" src="snow.js"></script>
@@ -62,8 +62,8 @@ public function form(){
 <a href="https://facebook.com/100016624871195" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100016624871195/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="200" height="200" title=""/></a>
 </div></div>
  </br> </br>
-<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
-<center><div style="font-family: Merienda;font-size: 30pt">
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet"> 
+<center><div style="font-family: Indie Flower;font-size: 30pt">
 <div id="center">
 <center><font color="Red" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="25%"><strong>👇 TOKEN SITE & MY BLOG 👇</strong></marquee></font><center>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="LOVE REACT"></a>
