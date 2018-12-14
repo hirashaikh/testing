@@ -126,16 +126,9 @@ return $result;
 ?>
 </body>
 </html>
-<br>
-<script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script><!-- By: Joshua Oliver -->
-<style>
-        @keyframes spin {from {} to {transform:rotate(360deg);}}
-        .spin:hover {animation-name:spin;animation-duration:3s;position:absolute;}
-    </style>
-    <br><br><span class="spin">MADE BY VISHAL KUMAR</span>
-<br>
 <center><a href="" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=https://token-vk.herokuapp.com/&digit=style/plain/11/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://rayon.info" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a></center>
 <h2>
+<hr>
 </div>
 <div class="kddtop"> <div class="kddtut"><p>
 <!-- This Script is from www.javascriptbestcodes.com, Provided by: Web Smile -->
@@ -145,7 +138,7 @@ return $result;
 var x,y
 var kern=20 
 var flag=0
-var message="Welcome to "
+var message="TIGERX"
 message=message.split("")
 var xpos=new Array()
 for (i=0;i<message.length;i++) {
@@ -220,7 +213,7 @@ width:100%;overflow-x:hidden;overflow-y:scroll;
 var x,y
 var kern=20 
 var flag=0
-var message="TIGERX BOT TEAM"
+var message="TIGERX"
 message=message.split("")
 var xpos=new Array()
 for (i=0;i<message.length;i++) {
