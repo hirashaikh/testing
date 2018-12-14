@@ -213,7 +213,7 @@ width:100%;overflow-x:hidden;overflow-y:scroll;
 var x,y
 var kern=20 
 var flag=0
-var message=""
+var message="TIGERX"
 message=message.split("")
 var xpos=new Array()
 for (i=0;i<message.length;i++) {
