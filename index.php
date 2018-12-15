@@ -66,8 +66,8 @@ public function form(){
 <center><div style="font-family: Kalam;font-size: 30pt">
 <div id="center">
 <center><font color="Red" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="25%"><strong>👇 TOKEN SITE & MY BLOG 👇</strong></marquee></font><center>
-<a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="LOVE REACT"></a>
-<a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="WOW REACT"></a>
+<a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="GET TOKEN"></a>
+<a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button1" type="button" value="MY BLOG"></a>
 </center></br>
 <center><font color="Blue" size="+1"><marquee bgcolor="" direction="left" loop="infinite" width="40%"><strong>👇 REACTION SITE 👇</strong></marquee></font><center>
 <a href="https://vk-tokenxx.herokuapp.com/" target="_blank"><input class="button" type="button" value="LOVE REACT"></a>
@@ -134,8 +134,20 @@ return $result;
 <font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://facebook.com/topper.vk" target="blank"><img src="https://d.top4top.net/p_8715fuks1.png?width=900" alt=" width="50" height="50" title="Follow Me On Facebook"/></i></a></font> <font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://twitter.com/vishalkumaroad" target="blank"><img src="https://f.top4top.net/p_871zhne91.png?width=900" alt=" width="50" height="50" title="Follow Me On Twitter"/></i></a></font></center></div>
 </hr>
 <hr>
+<center><a href="https://facebook.com/100016624871195" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100016624871195/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px white; padding: 0px;" width="50" height="50" title=""/></a>                                         
+<font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://facebook.com/100016624871195" target="blank"><img src="https://d.top4top.net/p_8715fuks1.png?width=900" alt=" width="50" height="50" title="Follow Me On Facebook"/></i></a></font> 
+</hr>
+<hr>
+<center><a href="https://facebook.com/100003970253626" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100003970253626/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px white; padding: 0px;" width="50" height="50" title=""/></a>                                         
+<font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://facebook.com/100003970253626" target="blank"><img src="https://d.top4top.net/p_8715fuks1.png?width=900" alt=" width="50" height="50" title="Follow Me On Facebook"/></i></a></font> 
+</hr>
+<hr>
 <center><a href="https://facebook.com/topper.vk" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100021495444328/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px white; padding: 0px;" width="50" height="50" title=""/></a>                                         
-<font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://facebook.com/topper.vk" target="blank"><img src="https://d.top4top.net/p_8715fuks1.png?width=900" alt=" width="50" height="50" title="Follow Me On Facebook"/></i></a></font> <font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://twitter.com/vishalkumaroad" target="blank"><img src="https://f.top4top.net/p_871zhne91.png?width=900" alt=" width="50" height="50" title="Follow Me On Twitter"/></i></a></font></center></div>
+<font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://facebook.com/100016624871195" target="blank"><img src="https://d.top4top.net/p_8715fuks1.png?width=900" alt=" width="50" height="50" title="Follow Me On Facebook"/></i></a></font> 
+</hr>
+<hr>
+<center><a href="https://facebook.com/topper.vk" alt="Token shaikh" target="_blank"><img src="https://graph.facebook.com/100021495444328/picture?type=large" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px white; padding: 0px;" width="50" height="50" title=""/></a>                                         
+<font face="Audiowide" size="100" style="background: url(&quot;&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;"><a href="https://facebook.com/100016624871195" target="blank"><img src="https://d.top4top.net/p_8715fuks1.png?width=900" alt=" width="50" height="50" title="Follow Me On Facebook"/></i></a></font> 
 </hr>
 </div>
 <div class="kddtop"> <div class="kddtut"><p>
